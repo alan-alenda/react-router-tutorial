@@ -1,3 +1,5 @@
+var webpack = require('webpack')
+
 module.exports = {
 
   // add this handful of plugins that optimize the build
